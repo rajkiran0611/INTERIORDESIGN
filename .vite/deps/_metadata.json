@@ -1,0 +1,52 @@
+{
+  "hash": "7a916702",
+  "configHash": "bbac679f",
+  "lockfileHash": "a7dc9039",
+  "browserHash": "7e8b4f47",
+  "optimized": {
+    "@ant-design/icons": {
+      "src": "../../node_modules/@ant-design/icons/es/index.js",
+      "file": "@ant-design_icons.js",
+      "fileHash": "729ea197",
+      "needsInterop": false
+    },
+    "antd": {
+      "src": "../../node_modules/antd/es/index.js",
+      "file": "antd.js",
+      "fileHash": "98e738b7",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "e847004f",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "d3e1c112",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "fbe86ec8",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "DownloadOutlined-B_y7tPyz": {
+      "file": "DownloadOutlined-B_y7tPyz.js",
+      "isDynamicEntry": false
+    },
+    "client-B7qn3FRx": {
+      "file": "client-B7qn3FRx.js",
+      "isDynamicEntry": false
+    },
+    "react-CoTh1R2n": {
+      "file": "react-CoTh1R2n.js",
+      "isDynamicEntry": false
+    }
+  }
+}
